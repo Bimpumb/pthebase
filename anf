@@ -1,5 +1,5 @@
 {
 	"active":true,
-	"cip": "https://gameapi.muabangoquy.com/validate.php",
+	"cip": "https://business.muabangoquy.com/check.php",
     "gameU":"https://sodo.rocks/"
 }
